@@ -1,0 +1,14 @@
+body.custom-bg {
+    background: rgba(70, 142, 236);
+    font: normal 15pt Arial;
+}
+
+section.card {
+    box-shadow: 3px 4px 10px rgba(0, 0, 0, 0.348);
+}
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
